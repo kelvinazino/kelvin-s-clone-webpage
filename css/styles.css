@@ -1,0 +1,242 @@
+body {
+  margin: 0;
+}
+a {
+  color: #E8F9FD;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+h1 {
+  color: white;
+  line-height: 2cm;
+  font-size: 1cm;
+}
+p {
+  color: white;
+  opacity: 0.5;
+  line-height: 0.5cm;
+}
+h3 {
+  color: rgb(254, 251, 246,0.7);
+  font-size: 0.5cm;
+}
+hr {
+    border-style: solid;
+    padding-top: 2px;
+    background: rgba(69, 98, 104,0.2);
+    width: 20%;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 280px;
+}
+span {
+  color: grey;opacity: 0.5;
+}
+.home-writeup {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+}
+
+.body-image {
+ background-image: url('../images/background-home.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+.headings {
+  position: absolute;
+  top: 5%; left: 40%;right: 0;
+padding:20px;
+background: rgb(83, 52, 131,0.2);
+font-size: 0.90rem;
+font-weight: bolder;
+background-attachment: fixed;
+
+
+}
+.explore {
+text-align: center;
+align-items: center;
+justify-content: center;
+display: flex;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: absolute;
+  left: 600px;
+  bottom: 50px;}
+  .explore-color {
+    color: black;
+  }
+
+.home-line {
+  text-underline-offset: 2em;text-decoration: solid underline #FEFBF6 4px;
+}
+.background-destination {
+background-image: url('../images/background-destination.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: 100vh;
+margin: 0;
+}
+.destination-01 {
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 15%;
+}
+.s-image {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 700px;
+}
+.image-2 {
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  margin-top: 18%;
+  margin-left: 15%;
+}
+.bottom-line{
+      border-style: solid;
+      padding-top: 2px;
+      background: rgba(69, 98, 104,0.2);
+      width: 30%;
+      position: absolute;
+      margin-top: 520px;
+      margin-left: 52%;
+}
+.table {
+position: absolute;
+margin-top: 450px;
+margin-left: 50%;
+
+}
+th { color: white;
+}
+.mars {
+  text-decoration: solid underline #FEFBF6 4px;
+   text-underline-offset: 1em;
+  color: white;
+  opacity: 1;
+}
+.destination-line {
+   text-underline-offset: 2em;text-decoration: solid underline #FEFBF6 4px;
+}
+.background-crew {
+  background-image: url('../images/background-crew.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+.writings {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 10%;
+width: 28%;
+}
+.meet-crew {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 8%;
+}
+.ansari {
+  position: absolute;
+  top: 200px;
+  right: 0;
+  left: 800px;
+  width: 450px;
+  height: 450px;
+
+}
+.crew-line {
+   text-underline-offset: 2em;text-decoration: solid underline #FEFBF6 4px;
+}
+.background-technology {
+  background-image: url('../images/background-technology.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+}
+.writings-technology {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 20%;
+width: 28%;
+}
+.space-launch {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+.technology-line {
+  text-underline-offset: 2em;text-decoration: solid underline #FEFBF6 4px;
+}
+.numbers-head {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+.one {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  background-color: white;
+  color: black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 10PX;
+    margin-bottom: 48PX;
+}
+.two {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  background-color: rgb(22, 33, 62,0.3);
+    width: 70px;
+    height: 70px;
+    border: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+
+}
+.three {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  background-color: rgb(22, 33, 62,0.3);
+    width: 70px;
+    height: 70px;
+    border: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+}
+.color-one {
+  color: black;
+}
+.launch-vehicle {
+  position: absolute;
+  top: 200px;
+  right: 0;
+  left: 920px;
+  width: 450px;
+  height: 450px;
+}
+.headings:hover {
+  background: #0F3460;
+}
+a:hover {
+  background-color: rgb(223, 246, 255,0.5);
+}
